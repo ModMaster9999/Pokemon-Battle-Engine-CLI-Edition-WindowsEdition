@@ -1,0 +1,25 @@
+Welcome to Pokemon Battle Engine CLI-Edition V1.3
+
+Changelog:
+V0.1:
+* Added HP changing mechanics and basic attack only loop, and pokedex database.
+V0.2:
+* Centralized attack and introduced battle states to all the pokemon. Attack database added.
+V0.3:
+* Type Charts implementation.
+V0.4:
+* Status Effects and Item Usage implemented.
+V0.5:
+* Changed the 1v1 battle to a 6v6 model.
+V0.6:
+* Added AI Heuristics for oppMove handling.
+V1.0:
+* First shipped version.
+V1.1:
+* Minor Bug fixes to fainting logic.
+V1.2:
+* Major Bug fixes to DMG Calculation and Handling
+V1.3:
+* Cynthia easter egg added. Triggers if you win 4 times in a row.
+
+PLEASE ONLY RUN gameV1.3.exe, and none of the other files. Please follow all the instructions within the game, enjoy!
