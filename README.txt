@@ -21,6 +21,8 @@ V1.2:
 * Major Bug fixes to DMG Calculation and Handling
 V1.3:
 * Cynthia easter egg added. Triggers if you win 4 times in a row.
+V1.3.2 and V1.3.3:
+* Minor Bug fixes.
 
 How to play?
 * Only use text during the first 4 options - Attack Items Pokemon Run
