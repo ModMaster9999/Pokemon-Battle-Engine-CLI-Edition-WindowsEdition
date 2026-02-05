@@ -22,4 +22,10 @@ V1.2:
 V1.3:
 * Cynthia easter egg added. Triggers if you win 4 times in a row.
 
+How to play?
+* Only use text during the first 4 options - Attack Items Pokemon Run
+* For all lists/numbers provided. Only use numbers and not text. Eg: at the Pokemon selection phase, please use numbers and not the name of the pokemon. Same for move selection.
+* Whenever prompted to answer in yes or no, please only use Yes or No.
+* Any other input during such prompts may lead to you discovering some *easter eggs* which no one wants to see. 
+
 PLEASE ONLY RUN gameV1.3.exe, and none of the other files. Please follow all the instructions within the game, enjoy!
