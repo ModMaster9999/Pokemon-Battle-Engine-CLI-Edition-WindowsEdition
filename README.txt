@@ -23,6 +23,9 @@ V1.3:
 * Cynthia easter egg added. Triggers if you win 4 times in a row.
 V1.3.2 and V1.3.3:
 * Minor Bug fixes.
+V1.3.4:
+* Made the easter egg more accessible with a certain code - hellwithher
+* Toned down the spicy easter egg messages cause many users seemed to ignore instructions.
 
 How to play?
 * Only use text during the first 4 options - Attack Items Pokemon Run
